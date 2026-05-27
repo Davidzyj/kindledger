@@ -2,8 +2,8 @@
 
 ## App Identity
 
-- App name: KindLedger / 善意簿
-- SKU suggestion: `kindledger-ios-100`
+- App name: KindTrace / 善意簿
+- SKU suggestion: `kindtrace-ios-100`
 - Bundle ID: `com.zhouyajie.kindledger`
 - Version: `1.0.0`
 - iPhone only
@@ -76,4 +76,4 @@ Validation:
 
 ## Review Notes Draft
 
-KindLedger is a local-only app. It does not require login and does not collect user data. All records are stored on the user's device. Privacy and support links open in the browser only after the user taps them.
+KindTrace is a local-only app. It does not require login and does not collect user data. All records are stored on the user's device. Privacy and support links open in the browser only after the user taps them.

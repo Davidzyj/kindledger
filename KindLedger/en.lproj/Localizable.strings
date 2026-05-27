@@ -68,7 +68,7 @@
 "sample.title.friend" = "She sat with me through a hard evening";
 "sample.title.mentor" = "He helped me see the next step";
 "search.prompt" = "Search people, places, tags";
-"settings.about.body" = "KindLedger keeps your kindness records on this iPhone. It has no account, no analytics, and no cloud sync in version 1.0.0.";
+"settings.about.body" = "KindTrace keeps your kindness records on this iPhone. It has no account, no analytics, and no cloud sync in version 1.0.0.";
 "settings.about.title" = "A private place for remembered help";
 "settings.email" = "Email support";
 "settings.privacy" = "Privacy Policy";

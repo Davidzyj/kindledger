@@ -1,8 +1,8 @@
-# KindLedger Product Notes
+# KindTrace Product Notes
 
 ## Concept
 
-KindLedger is a private gratitude memory app. It helps users record the people who helped them, what happened, how it changed the day, and whether they want to thank that person later.
+KindTrace is a private gratitude memory app. It helps users record the people who helped them, what happened, how it changed the day, and whether they want to thank that person later.
 
 It is intentionally not a social network, CRM, or contacts manager. The emotional promise is simple: when life gets noisy, the user can reopen proof that they have been helped, seen, and carried by others.
 
@@ -18,7 +18,7 @@ It is intentionally not a social network, CRM, or contacts manager. The emotiona
 
 ## Names
 
-- English app name: KindLedger
+- English app name: KindTrace
 - Chinese app name: 善意簿
 - Bundle identifier: `com.zhouyajie.kindledger`
 - Version: `1.0.0`
@@ -36,7 +36,7 @@ Must have:
 - Mark whether the user has thanked the person.
 - Open privacy policy and support pages from Settings.
 - English and Simplified Chinese UI.
-- `CFBundleDisplayName` localized as `KindLedger` and `善意簿`.
+- `CFBundleDisplayName` localized as `KindTrace` and `善意簿`.
 
 Should have:
 

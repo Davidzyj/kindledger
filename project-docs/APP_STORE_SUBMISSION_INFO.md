@@ -1,17 +1,17 @@
 # App Store Submission Information
 
-This document is the copy-ready submission sheet for KindLedger / 善意簿.
+This document is the copy-ready submission sheet for KindTrace / 善意簿.
 
 ## Basic App Record
 
 | Field | Value |
 |---|---|
 | Platform | iOS |
-| App name, English | KindLedger |
+| App name, English | KindTrace: Gratitude Log |
 | App name, Simplified Chinese | 善意簿 |
 | Primary language suggestion | English (U.S.) |
 | Bundle ID | `com.zhouyajie.kindledger` |
-| SKU | `kindledger-ios-100` |
+| SKU | `kindtrace-ios-100` |
 | User access | Full access, no login required |
 
 ## Version Information
@@ -29,10 +29,10 @@ This document is the copy-ready submission sheet for KindLedger / 善意簿.
 
 | Field | Value |
 |---|---|
-| Name | KindLedger |
+| Name | KindTrace: Gratitude Log |
 | Subtitle | Remember everyday kindness |
 | Promotional Text | Keep a private, offline record of the people who helped you and the kindness you do not want to forget. |
-| Description | KindLedger is a quiet, private place to remember the people who helped you. Record who showed up for you, what happened, where it happened, and whether you have thanked them yet.\n\nThe app is designed for personal reflection, not social networking. Your records stay on your iPhone. There is no account, no cloud sync, no analytics, and no automatic network request in version 1.0.0.\n\nFeatures:\n- Record moments of help, care, encouragement, teaching, protection, opportunity, and companionship.\n- Browse recent kindness records.\n- View people summaries and unthanked moments.\n- Search by person, place, tags, and notes.\n- Mark a record as thanked.\n- Use the app in English or Simplified Chinese. |
+| Description | KindTrace is a quiet, private place to remember the people who helped you. Record who showed up for you, what happened, where it happened, and whether you have thanked them yet.\n\nThe app is designed for personal reflection, not social networking. Your records stay on your iPhone. There is no account, no cloud sync, no analytics, and no automatic network request in version 1.0.0.\n\nFeatures:\n- Record moments of help, care, encouragement, teaching, protection, opportunity, and companionship.\n- Browse recent kindness records.\n- View people summaries and unthanked moments.\n- Search by person, place, tags, and notes.\n- Mark a record as thanked.\n- Use the app in English or Simplified Chinese. |
 | Keywords | gratitude,journal,kindness,people,thanks,memory,offline,private,reflection,notes |
 | Support URL | `https://davidzyj.github.io/kindledger/en/support.html` |
 | Marketing URL | `https://davidzyj.github.io/kindledger/` |
@@ -134,7 +134,7 @@ Expected rating: 4+.
 Review notes:
 
 ```text
-KindLedger is a local-only personal reflection app. It does not require login and does not collect user data. Users can create, edit, delete, search, and mark local kindness records. All records are stored on the user's device. The privacy policy, support page, and email links open only when the user taps them.
+KindTrace is a local-only personal reflection app. It does not require login and does not collect user data. Users can create, edit, delete, search, and mark local kindness records. All records are stored on the user's device. The privacy policy, support page, and email links open only when the user taps them.
 ```
 
 Chinese review notes, if needed:

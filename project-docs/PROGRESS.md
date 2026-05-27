@@ -10,7 +10,7 @@
   - App helps the user remember other people's kindness.
   - First version is local-only, bilingual, and iPhone-only.
 - Product name selected:
-  - English: KindLedger
+  - English: KindTrace
   - Chinese: 善意簿
   - Bundle ID: `com.zhouyajie.kindledger`
 - Created initial documentation:
@@ -46,7 +46,7 @@ Next:
   - English UI in `KindLedger/en.lproj/Localizable.strings`
   - Simplified Chinese UI in `KindLedger/zh-Hans.lproj/Localizable.strings`
   - `CFBundleDisplayName` localized:
-    - English: `KindLedger`
+    - English: `KindTrace`
     - Chinese: `善意簿`
 - Added GitHub Pages website files under `docs/`:
   - English privacy policy.

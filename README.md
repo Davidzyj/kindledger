@@ -1,11 +1,11 @@
-# KindLedger
+# KindTrace
 
-KindLedger is an iPhone-only, offline-first SwiftUI app for remembering the help, warmth, and generosity people have shown you.
+KindTrace is an iPhone-only, offline-first SwiftUI app for remembering the help, warmth, and generosity people have shown you.
 
 ## Product
 
 - Chinese name: 善意簿
-- English name: KindLedger
+- English name: KindTrace
 - Repository: https://github.com/Davidzyj/kindledger
 - Website: https://davidzyj.github.io/kindledger/
 - Bundle identifier: `com.zhouyajie.kindledger`
