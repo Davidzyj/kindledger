@@ -73,3 +73,26 @@ Next:
 - Push code and docs.
 - Enable GitHub Pages from `main` branch `/docs`.
 - Confirm public privacy/support URLs load after Pages deploys.
+
+## 2026-05-27 GitHub Publishing
+
+- Created public GitHub repository:
+  - `https://github.com/Davidzyj/kindledger`
+- Pushed `main` branch.
+- Enabled GitHub Pages:
+  - Source: `main` branch, `/docs`
+  - Status: `built`
+  - Website: `https://davidzyj.github.io/kindledger/`
+- Public URLs:
+  - English support: `https://davidzyj.github.io/kindledger/en/support.html`
+  - English privacy: `https://davidzyj.github.io/kindledger/en/privacy.html`
+  - Chinese support: `https://davidzyj.github.io/kindledger/zh/support.html`
+  - Chinese privacy: `https://davidzyj.github.io/kindledger/zh/privacy.html`
+
+Remaining before App Store submission:
+
+- Open project in Xcode and set the real Apple Developer Team for signing.
+- Create App Store Connect app record with bundle ID `com.zhouyajie.kindledger`.
+- Upload archive from Xcode or Transporter.
+- Upload generated 6.5-inch screenshots.
+- Paste privacy/support URLs into App Store Connect.

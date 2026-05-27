@@ -6,6 +6,8 @@ KindLedger is an iPhone-only, offline-first SwiftUI app for remembering the help
 
 - Chinese name: 善意簿
 - English name: KindLedger
+- Repository: https://github.com/Davidzyj/kindledger
+- Website: https://davidzyj.github.io/kindledger/
 - Bundle identifier: `com.zhouyajie.kindledger`
 - Version: `1.0.0`
 - Platform: iPhone only
