@@ -1,0 +1,16 @@
+# Xcode
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Generated local artifacts
+tmp/
