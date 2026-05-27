@@ -96,3 +96,15 @@ Remaining before App Store submission:
 - Upload archive from Xcode or Transporter.
 - Upload generated 6.5-inch screenshots.
 - Paste privacy/support URLs into App Store Connect.
+
+## 2026-05-27 App Store Submission Sheet
+
+- Added `project-docs/APP_STORE_SUBMISSION_INFO.md`.
+- The document contains copy-ready App Store Connect fields:
+  - English metadata.
+  - Simplified Chinese metadata.
+  - Privacy answers.
+  - Age rating suggestions.
+  - Screenshot paths.
+  - App Review notes.
+  - Manual fields that still require account-owner input.

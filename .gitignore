@@ -1,6 +1,7 @@
 # Xcode
 DerivedData/
 *.xcuserdata/
+xcuserdata/
 *.xcuserstate
 *.moved-aside
 *.xcscmblueprint
